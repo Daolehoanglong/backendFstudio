@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": ["ES5", "ES6", "DOM"],
+        "removeComments": true,
+        "outDir": "dist",
+        "moduleResolution": "node"
+    }
+}
